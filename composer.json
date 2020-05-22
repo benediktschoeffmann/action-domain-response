@@ -1,0 +1,12 @@
+{
+    "name": "ben/action-domain-response",
+    "description": "An Action-Domain-Responder Implementation",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Benedikt Schöffmann",
+            "email": "benedikt.schoeffmann@gmail.com"
+        }
+    ],
+    "require": {}
+}
