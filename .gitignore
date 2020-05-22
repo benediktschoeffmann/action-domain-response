@@ -1,0 +1,6 @@
+log/
+.log*
+vendor/
+.git
+.vscode
+composer.json
